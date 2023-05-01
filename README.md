@@ -22,3 +22,6 @@ You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.o
 
 > **Warning**
 > Since this Project is under research preview you are requested to **Run this Extension Locally**.
+
+## Instructions
+[Follow the blog](https://www.epicprogrammer.org/brian-ai-full-browser-automation/) for installing the extension and Running it in Your Browser
