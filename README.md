@@ -9,9 +9,9 @@ Brian's current status is **research preview**. Many workflows fail or confuse t
 
 Brian is fully open-source, and we don't send any page contents or instructions to our servers.
 
-[Follow the Blog](www.epicprogrammer.org/brian-ai-full-browser-automation/) for More Information | [Support me](https://buy.stripe.com/bIY8xCa3u1tG7Ju6oo) for more projects like this.
+[Follow the Blog](https://www.epicprogrammer.org/brian-ai-full-browser-automation/) for More Information | [Support me](https://buy.stripe.com/bIY8xCa3u1tG7Ju6oo) for more projects like this.
 
-You Can Also support me by [Subscribing to My Blog](www.epicprogrammer.org). Thanks in Advance
+You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.org). Thanks in Advance
 
 ## Beta Version
-You can download the beta version from [here](www.epicprogrammer.org/brian-ai-full-browser-automation/) to run and test the extension.
+You can download the beta version from [here](https://www.epicprogrammer.org/brian-ai-full-browser-automation/) to run and test the extension.
