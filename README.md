@@ -25,3 +25,5 @@ You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.o
 
 ## Instructions
 [Follow the blog](https://www.epicprogrammer.org/brian-ai-full-browser-automation/) for installing the extension and Running it in Your Browser
+
+<img src="src/assets/img/preview-1.png"/>
