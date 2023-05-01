@@ -21,4 +21,4 @@ You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.o
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/santosharron/Brian-AI/releases/download/V.1.1.0/Brian-AI.zip)
 
 > **Warning**
-> Since this Project is under research preview **Run this Extension Locally**.
+> Since this Project is under research preview you are requested to **Run this Extension Locally**.
